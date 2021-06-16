@@ -7,6 +7,7 @@ A Quasar Framework app
 ```
   git clone https://github.com/althony/front-end-test
   cd front-end-test
+  npm i
   quasar dev
 ```
 
