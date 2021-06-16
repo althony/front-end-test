@@ -13,8 +13,13 @@ A Quasar Framework app
 
 # Screenshot
 
-1. Create a screen to display all the posts
-   ![image](https://user-images.githubusercontent.com/38849387/122096639-5dfd2780-ce41-11eb-8dd4-3de3e4815ab6.png)
+1. Create a screen to display all the posts  
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/38849387/122143632-632f9600-ce84-11eb-9bab-4962afeeed6d.gif)
+
+
+
 
 2. Create a second screen that shows all the comments related to a post
-   ![image](https://user-images.githubusercontent.com/38849387/122097553-643fd380-ce42-11eb-8624-5a038096c435.png)
+   ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/38849387/122143641-675bb380-ce84-11eb-8f38-edc2ced6c256.gif)
+
+   
